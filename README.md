@@ -3,6 +3,9 @@
 * Name: Darryl Yeo
 * Lab Status: Complete
 
-## Compilation and execution instructions
-* `gcc -o piku piku.s` or `make`
-* `./piku`
+## Compile
+`gcc -o piku piku.s`
+
+
+## Execute
+`./piku`
